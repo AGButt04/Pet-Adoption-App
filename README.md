@@ -64,5 +64,5 @@ This project demonstrates core Android development skills:
 - **Practical Functionality**: Real-world pet adoption app workflow simulation
 
 ---
-**Part of my Android development portfolio** | (https://github.com/AGButt04) | (https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
+**Part of my Android development portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
 
